@@ -1,5 +1,6 @@
 # Sequelize Course
 
+Following along [this course](https://github.com/DavidArmendariz/sequelize-course).
 ## JWT (JSON Web Token)
 Since this is an authentication backend, we need a reliable auth method. 
 
